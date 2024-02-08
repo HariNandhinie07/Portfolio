@@ -1,0 +1,16 @@
+section{
+    font-size: 30px;
+}
+.contact>img{
+    height:150px;
+    width: 150px;
+    margin-left: 300px;
+    margin-right: 10px;
+}
+p{
+    margin-right:500px;
+}
+a{
+    font-size: 30px;
+    font-family: cursive;
+}

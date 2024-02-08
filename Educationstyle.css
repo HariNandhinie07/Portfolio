@@ -1,0 +1,40 @@
+table,td,th,tr{
+    color:white;
+    font-family: cursive;
+    border: 1px solid;
+    border-style:ridge;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    font-size: 30px;
+}
+li{
+    color:white;
+    font-family: cursive;
+    font-size: 20px;
+}
+.edu>h3{
+    color: white;
+    font-family: cursive;
+    position: absolute;
+    top: 50px;
+    right: 150px;
+    font-size: 50px;
+    padding-right: 470px;
+ 
+ }
+.edu>ol{
+        color: white;
+        font-family: cursive;
+        padding-top: 50px;
+
+}
+.education{
+    position: absolute;
+    top: 300px;
+    right: 50px;
+    font-size: 25px;
+    padding-right: 470px;
+ 
+}

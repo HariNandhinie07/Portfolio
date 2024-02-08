@@ -1,0 +1,28 @@
+nav{
+    display: inline-block;
+    align-items: center;
+    justify-content: space-evenly;
+    background:black;
+    padding: 20px 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0.06);
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+nav  li{
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color:#fff;
+    transition: 0.3s ease-in-out;
+    display: inline-block;
+    cursor: pointer;
+    }
+    
+nav li:hover{
+    color:#17cf97;
+}
+
